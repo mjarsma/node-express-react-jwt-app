@@ -1,0 +1,16 @@
+html, body {
+    color: #333;
+    font-family: "RobotoDraft", "Roboto", sans-serif;
+    font-size: 1em;
+    -webkit-font-smoothing: antialiased; }
+
+div {
+    box-sizing: border-box; }
+
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0; }
+
+a {
+    color: #6396F2;
+    text-decoration: none;
+}
